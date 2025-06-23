@@ -36,5 +36,3 @@ Fundador de [DCS Codes](https://portal.dcs.codes) | Buenos Aires, Argentina (Rem
 ## **📚 Educación y Certificaciones**  
 - **Cursos Autodidactas**: Linux Server Administration, Cloud Fundamentals.  
 - **Inglés Técnico** (lectura de documentación).  
-
-![Banner](https://i.imgur.com/3ehgOPd.png)  
