@@ -12,7 +12,8 @@
 
 ---
 
-## **💼 Experiencia Clave** ### **🔧 Founder & Lead Infrastructure @ [DCS Codes](https://portal.dcs.codes)** - Arquitectura de servidores de alta disponibilidad con foco en **Hardening y Monitoreo Proactivo**.
+## **💼 Experiencia Clave** 
+### **🔧 Founder & Lead Infrastructure @ [DCS Codes](https://portal.dcs.codes)** - Arquitectura de servidores de alta disponibilidad con foco en **Hardening y Monitoreo Proactivo**.
 - Implementación de firewalls perimetrales con inspección de tráfico en tiempo real y filtrado de protocolos no estándar.
 - Gestión de infraestructura distribuida y automatización de despliegues críticos.
 
