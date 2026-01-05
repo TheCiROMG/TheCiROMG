@@ -23,11 +23,13 @@
 
 ## **📂 Proyectos Destacados**
 
-| Proyecto | Descripción | Tecnologías |
-| :--- | :--- | :--- |
-| **Hardening de OPNsense** | Implementación y gestión de Suricata + ntopng para el control total del perímetro de red. | OPNsense, IDS/IPS, DPI |
-| **Optimización DNS Local** | Reducción de ráfagas de consultas (20k+) mediante arquitectura de caching en memoria RAM. | Unbound, TTL Tuning, RAM Cache |
-| **Secure File Transfer** | Configuración de servidores SFTP/SSH endurecidos para transferencias masivas de datos. | SSH-2.0, OpenSSH, FileZilla |
+| Proyecto | Descripción | Tecnologías | Impacto / Resultado |
+| :--- | :--- | :--- | :--- |
+| **Edge Security Hardening** | Despliegue de stack defensivo con inspección profunda de paquetes (DPI). | OPNsense, Suricata, ntopng | Mitigación proactiva de Botnets y control total L7 del tráfico. |
+| **High-Performance DNS** | Optimización de recursión y caching agresivo para entornos de alta demanda. | Unbound DNS, Redis, RAM Cache | Reducción del 90% en latencia de resolución y filtrado de +20k logs/seg. |
+| **Hybrid Cloud VPN** | Interconexión de nodos locales y cloud mediante túneles cifrados de baja latencia. | Cloudflare Tunnels, WireGuard | Acceso remoto seguro sin exposición de puertos (Zero Trust). |
+| **CCTV Network Isolation** | Segmentación y saneamiento de tráfico para dispositivos IoT/CCTV inestables. | VLANs, Firewall Rules, OPMonitor | Eliminación de loops de conexión y optimización de ancho de banda WAN. |
+| **Automated Backup System** | Pipeline de respaldos cifrados con rotación automática en storage local/nube. | Bash, Python, Cron, AES-256 | Garantía de integridad de datos y RTO (Recovery Time Objective) optimizado. |
 
 ---
 
