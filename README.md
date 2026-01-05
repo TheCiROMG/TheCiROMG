@@ -21,11 +21,13 @@
 
 ---
 
-## **📂 Proyectos Destacados** | Proyecto | Descripción | Tecnologías |
-|----------|-------------|-------------|
-| **[Hardening de OPNsense]** | Implementación y gestión de Suricata + ntopng para el control total del perímetro de red. | OPNsense, IDS/IPS, DPI |
-| **[Optimización DNS Local]** | Reducción drástica de ráfagas de consultas (20k+) mediante arquitectura de caching en memoria RAM. | Unbound, TTL Tuning, RAM Cache |
-| **[Secure File Transfer]** | Configuración de servidores SFTP/SSH endurecidos para transferencias masivas de datos con cifrado de grado militar. | SSH-2.0, OpenSSH, FileZilla |
+## **📂 Proyectos Destacados**
+
+| Proyecto | Descripción | Tecnologías |
+| :--- | :--- | :--- |
+| **Hardening de OPNsense** | Implementación y gestión de Suricata + ntopng para el control total del perímetro de red. | OPNsense, IDS/IPS, DPI |
+| **Optimización DNS Local** | Reducción de ráfagas de consultas (20k+) mediante arquitectura de caching en memoria RAM. | Unbound, TTL Tuning, RAM Cache |
+| **Secure File Transfer** | Configuración de servidores SFTP/SSH endurecidos para transferencias masivas de datos. | SSH-2.0, OpenSSH, FileZilla |
 
 ---
 
