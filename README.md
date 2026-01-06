@@ -22,15 +22,25 @@
 
 ---
 
-## **📂 Proyectos Destacados**
+## **📂 Proyectos y Casos de Éxito**
 
-| Proyecto | Descripción | Tecnologías | Impacto / Resultado |
+| Proyecto | Descripción Técnica | Stack Tecnológico | Impacto / Resultado |
 | :--- | :--- | :--- | :--- |
-| **Edge Security Hardening** | Despliegue de stack defensivo con inspección profunda de paquetes (DPI). | OPNsense, Suricata, ntopng | Mitigación proactiva de Botnets y control total L7 del tráfico. |
-| **High-Performance DNS** | Optimización de recursión y caching agresivo para entornos de alta demanda. | Unbound DNS, Redis, RAM Cache | Reducción del 90% en latencia de resolución y filtrado de +20k logs/seg. |
-| **Hybrid Cloud VPN** | Interconexión de nodos locales y cloud mediante túneles cifrados de baja latencia. | Cloudflare Tunnels, WireGuard | Acceso remoto seguro sin exposición de puertos (Zero Trust). |
-| **CCTV Network Isolation** | Segmentación y saneamiento de tráfico para dispositivos IoT/CCTV inestables. | VLANs, Firewall Rules, OPMonitor | Eliminación de loops de conexión y optimización de ancho de banda WAN. |
-| **Automated Backup System** | Pipeline de respaldos cifrados con rotación automática en storage local/nube. | Bash, Python, Cron, AES-256 | Garantía de integridad de datos y RTO (Recovery Time Objective) optimizado. |
+| **Edge Security & Deep Packet Inspection** | Hardening de perímetro con filtrado L7 y mitigación de amenazas en tiempo real. | OPNsense, Suricata, ntopng, Maltrail | Eliminación de falsos positivos y control granular de +20k flujos de datos. |
+| **High-Performance Game Hosting** | Despliegue de paneles de gestión y nodos de alto rendimiento (Wings) aislados. | Pterodactyl, Docker, Ubuntu Server | Orquestación eficiente de contenedores con recursos dedicados y baja latencia. |
+| **Core Network Architecture** | Configuración de infraestructura de red base, gestión de WAN y ruteo avanzado. | PPPoE, NAT/PAT, VLANs, DHCP Static | Optimización de la capa de enlace y estabilidad en conexiones de alta demanda. |
+| **Smart DNS & Caching Layer** | Implementación de resolver recursivo con políticas de caché agresivas y seguridad DNSSEC. | Unbound DNS, Blocklists, RAM Cache | Reducción drástica de latencia WAN y mitigación de ráfagas de consultas (DNS Storms). |
+| **Linux Hardening & Virtualization** | Administración de entornos Bare-metal y virtualización de servidores críticos. | Proxmox VE, Debian/CentOS, Bash Scripting | Consolidación de servicios y automatización de backups cifrados fuera de sitio. |
+| **IoT Traffic Sanitization** | Aislamiento y análisis de protocolos propietarios inestables en dispositivos IoT/CCTV. | OPMonitor (XMeye), Firewall Aliases | Saneamiento de logs del sistema y preservación de ancho de banda para gaming. |
+
+---
+
+## **⚙️ Infraestructura y Redes (Deep Dive)**
+
+- **Conectividad ISP**: Configuración avanzada de **PPPoE**, gestión de **NAT** (Port Forwarding / Outbound NAT) y optimización de MTU/MSS para evitar fragmentación.
+- **Game Server Ops**: Expertiz en **Pterodactyl Panel** y despliegue de **Wings** sobre Docker, garantizando aislamiento de procesos y límites de recursos (CPU/RAM).
+- **Security Auditing**: Monitoreo constante de flujos mediante **ntopng** para detección de anomalías, ataques SSH de fuerza bruta y exfiltración de datos.
+- **Bare-Metal Tuning**: Optimización de kernels Linux y BIOS para entornos de servidor sobre hardware **Ryzen (Zen 3/4)**, maximizando el throughput de red.
 
 ---
 
