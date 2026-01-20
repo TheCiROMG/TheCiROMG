@@ -49,3 +49,13 @@
 - **Inglés Técnico**: Competencia profesional en lectura de documentación y gestión de entornos internacionales.  
 
 ---
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheCiROMG&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheCiROMG&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=TheCiROMG&theme=tokyonight&hide_border=true)
+
+</div>
