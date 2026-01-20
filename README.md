@@ -56,6 +56,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheCiROMG&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=TheCiROMG&theme=tokyonight&hide_border=true)
-
 </div>
